@@ -1,0 +1,2 @@
+Este projeto refere-se ao projeto: "CONSTRUINDO UMA CULTURA DE SEGURANÇA CIBERNÉTICA: DA CONSCIENTIZAÇÃO À AÇÃO COM ZERO TRUST", da disciplina de IT Infrastructure - Implementation & Performance, sob a orientação do professor Carlos Eduardo Falcão.
+Projeto iniciado no semestre passado na disciplina de IT Infrastructure: Demand Analysis & Project, sob a orientação do professor Acacio Luiz Siarkowski.
